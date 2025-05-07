@@ -1,11 +1,9 @@
 # InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving
-### [Paper](https://arxiv.org/pdf/2311.12754) 
-
-![demo](./assets/overview.png)
+### [Paper](https://arxiv.org/abs/2503.13047)
 
 > InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving
 
-> [Ruiqi Song](https://scholar.google.com/citations?hl=en&user=hMSOTPoAAAAJ&view_op=list_works&sortby=pubdate)\* $\dagger$, 
+> [Ruiqi Song](https://scholar.google.com/citations?hl=en&user=hMSOTPoAAAAJ&view_op=list_works&sortby=pubdate)\*, 
 > [Xianda Guo](https://scholar.google.com/citations?user=jPvOqgYAAAAJ)\*,
 > [Hangbin Wu](https://ieeexplore.ieee.org/author/37068941300)$\dagger$, 
 > [Qinggong Wei](https://github.com/ruiqi-song), 

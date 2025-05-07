@@ -32,7 +32,7 @@
 
 ## Result
 <p align="center">
-<img src=./assets/result_nus.jpg alt="Description" width="790"/>
+<img src=./assets/result_nus.jpg alt="Description" width="780"/>
 </p>
 
 ## Visualization
@@ -49,7 +49,7 @@ Also thanks to these excellent open-sourced repos:
 
 If you find this project helpful, please consider citing the following paper:
 ```
-@article{wu2025uns,
+@article{insightdrive2025,
     title={InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving},
     author={Ruiqi Song and Xianda Guo and Hangbin Wu and Qinggong Wei and Long Chen },
     journal={https://arxiv.org/abs/2503.13047},

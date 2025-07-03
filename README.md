@@ -23,7 +23,7 @@
 <img src=./assets/overview.png> 
 
 - In this paper, a novel end-to-end autonomous driving method called InsightDrive is proposed, which organizes perception by attention-centric scene representation inspired by human drivers. 
-- This approach imitates the attention allocation behavior of human drivers by constructing chain-of-thought-based instructions, and fine-tunes a large language model (LLM) to generate knowledge aligned with human attention patterns. 
+- This approach imitates the attention allocation behavior of human drivers by constructing chain-of-thought-based instructions, and fine-tunes a large language model (LLM) to generate knowledge aligned with human attention patterns. 
 - A lightweight vision-language adapter is employed to inject human driver knowledge into the conventional scene representation, which allows the model to achieve attention-centric scene modeling with negligible increase in model parameters. 
 - The method establishes a knowledge distillation pipeline from human drivers to LLMs and finally to onboard models. 
 - Furthermore, we employ self-attention and cross-attention mechanisms to model the ego-agents and agents-map relationships to comprehensively build the topological relationships of the scene.

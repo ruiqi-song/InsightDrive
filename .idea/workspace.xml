@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd5b8a3a-1b66-4749-935d-233bab9cf71b" name="Changes" comment="update framework.png and overview.png v3" />
+    <list default="true" id="cd5b8a3a-1b66-4749-935d-233bab9cf71b" name="Changes" comment="update framework.png and overview.png v4">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1746631455008</updated>
       <workItem from="1746631456527" duration="3722000" />
-      <workItem from="1751544845471" duration="1111000" />
+      <workItem from="1751544845471" duration="1466000" />
     </task>
     <task id="LOCAL-00001" summary="update v1.2">
       <created>1746631654812</created>
@@ -87,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1751545785202</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update framework.png and overview.png v4">
+      <created>1751545972674</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1751545972674</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +120,7 @@
     <MESSAGE value="update framework.png and overview.png" />
     <MESSAGE value="update framework.png and overview.png v2" />
     <MESSAGE value="update framework.png and overview.png v3" />
-    <option name="LAST_COMMIT_MESSAGE" value="update framework.png and overview.png v3" />
+    <MESSAGE value="update framework.png and overview.png v4" />
+    <option name="LAST_COMMIT_MESSAGE" value="update framework.png and overview.png v4" />
   </component>
 </project>

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd5b8a3a-1b66-4749-935d-233bab9cf71b" name="Changes" comment="update desc">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cd5b8a3a-1b66-4749-935d-233bab9cf71b" name="Changes" comment="update framework.png and overview.png" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,8 +26,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -40,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1746631455008</updated>
       <workItem from="1746631456527" duration="3722000" />
-      <workItem from="1751544845471" duration="392000" />
+      <workItem from="1751544845471" duration="718000" />
     </task>
     <task id="LOCAL-00001" summary="update v1.2">
       <created>1746631654812</created>
@@ -63,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1746632545170</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update framework.png and overview.png">
+      <created>1751545427479</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1751545427479</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +94,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="update v1.2" />
     <MESSAGE value="update desc" />
-    <option name="LAST_COMMIT_MESSAGE" value="update desc" />
+    <MESSAGE value="update framework.png and overview.png" />
+    <option name="LAST_COMMIT_MESSAGE" value="update framework.png and overview.png" />
   </component>
 </project>

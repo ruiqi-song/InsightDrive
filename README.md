@@ -28,7 +28,7 @@
 - Finally, based on scene understanding, we jointly perform motion prediction and planning. Extensive experiments on the widely used nuScenes benchmark demonstrate that the proposed InsightDrive achieves state-of-the-art performance in end-to-end autonomous driving.
 
 ## FrameWork
-<img src=./assets/framework.jpg>
+<img src=./assets/framework.png>
 
 ## Result
 <p align="center">

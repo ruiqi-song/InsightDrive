@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd5b8a3a-1b66-4749-935d-233bab9cf71b" name="Changes" comment="update framework.png and overview.png v6">
+    <list default="true" id="cd5b8a3a-1b66-4749-935d-233bab9cf71b" name="Changes" comment="update paper">
       <change afterPath="$PROJECT_DIR$/.DS_Store" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/assets/result_nav.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/assets/result_nus.png" afterDir="false" />
@@ -53,7 +53,7 @@
       <updated>1746631455008</updated>
       <workItem from="1746631456527" duration="3722000" />
       <workItem from="1751544845471" duration="2103000" />
-      <workItem from="1764584578759" duration="530000" />
+      <workItem from="1764584578759" duration="925000" />
     </task>
     <task id="LOCAL-00001" summary="update v1.2">
       <created>1746631654812</created>
@@ -118,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1751546351626</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update paper">
+      <created>1764585170675</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1764585170675</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +152,7 @@
     <MESSAGE value="update framework.png and overview.png v4" />
     <MESSAGE value="update framework.png and overview.png v5" />
     <MESSAGE value="update framework.png and overview.png v6" />
-    <option name="LAST_COMMIT_MESSAGE" value="update framework.png and overview.png v6" />
+    <MESSAGE value="update paper" />
+    <option name="LAST_COMMIT_MESSAGE" value="update paper" />
   </component>
 </project>

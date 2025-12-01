@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd5b8a3a-1b66-4749-935d-233bab9cf71b" name="Changes" comment="update paper">
-      <change afterPath="$PROJECT_DIR$/.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/result_nav.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/result_nus.png" afterDir="false" />
+    <list default="true" id="cd5b8a3a-1b66-4749-935d-233bab9cf71b" name="Changes" comment="update paper v2">
+      <change beforePath="$PROJECT_DIR$/.DS_Store" beforeDir="false" afterPath="$PROJECT_DIR$/.DS_Store" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/framework.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/framework.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/result_nus.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/vis.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vis.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +47,7 @@
       <updated>1746631455008</updated>
       <workItem from="1746631456527" duration="3722000" />
       <workItem from="1751544845471" duration="2103000" />
-      <workItem from="1764584578759" duration="925000" />
+      <workItem from="1764584578759" duration="2815000" />
     </task>
     <task id="LOCAL-00001" summary="update v1.2">
       <created>1746631654812</created>
@@ -125,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1764585170675</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="update paper v2">
+      <created>1764585770744</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1764585770744</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +154,7 @@
     <MESSAGE value="update framework.png and overview.png v5" />
     <MESSAGE value="update framework.png and overview.png v6" />
     <MESSAGE value="update paper" />
-    <option name="LAST_COMMIT_MESSAGE" value="update paper" />
+    <MESSAGE value="update paper v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="update paper v2" />
   </component>
 </project>

@@ -5,6 +5,7 @@
 
 > [Ruiqi Song](https://scholar.google.com/citations?hl=en&user=hMSOTPoAAAAJ&view_op=list_works&sortby=pubdate)\*, 
 > [Xianda Guo](https://scholar.google.com/citations?user=jPvOqgYAAAAJ)\*,
+> [Yanlun Peng](https://github.com/ruiqi-song),
 > [Hangbin Wu](https://ieeexplore.ieee.org/author/37068941300)$\dagger$, 
 > [Qinggong Wei](https://github.com/ruiqi-song), 
 > [Long Chen](https://scholar.google.com/citations?user=jzvXnkcAAAAJ)$\dagger$
@@ -22,18 +23,19 @@
 
 <img src=./assets/overview.png> 
 
-- In this paper, a novel end-to-end autonomous driving method called InsightDrive is proposed, which organizes perception by attention-centric scene representation inspired by human drivers. 
-- This approach imitates the attention allocation behavior of human drivers by constructing chain-of-thought-based instructions, and fine-tunes a large language model (LLM) to generate knowledge aligned with human attention patterns. 
-- A lightweight vision-language adapter is employed to inject human driver knowledge into the conventional scene representation, which allows the model to achieve attention-centric scene modeling with negligible increase in model parameters. 
-- The method establishes a knowledge distillation pipeline from human drivers to LLMs and finally to onboard models. 
-- Furthermore, we employ self-attention and cross-attention mechanisms to model the ego-agents and agents-map relationships to comprehensively build the topological relationships of the scene.
-- Comprehensive evaluations on the widely adopted nuScenes benchmark demonstrate that InsightDrive achieves considerable improvements over conventional scene representation approaches.
+- We present InsightDrive, which leverages CoT instructions to fine-tune LLMs and establishes a human–LLM–vehicle distillation pipeline that transfers human driving cognition into onboard models for joint explicit and implicit scene representation. 
+- We design a Task-level Mixture-of-Experts adapter that injects human driving cognitive processes into scene representations with minimal parameter overhead, which enhances scene understanding and reasoning. 
+- We propose a diffusion-based generative planner that uses explicit attention and implicit reasoning as conditions for generating robust and adaptive trajectories. 
+- We conduct comprehensive experiments on both the nuScenes and Navsim benchmarks, which demonstrate the effectiveness and robustness of InsightDrive and show that it achieves state-of-the-art performance.
 ## FrameWork
 <img src=./assets/framework.png>
 
 ## Result
 <p align="center">
-<img src=./assets/result_nus.jpg alt="Description" width="780"/>
+<img src=./assets/result_nus.png alt="Description" width="780"/>
+</p>
+<p align="center">
+<img src=./assets/result_nav.png alt="Description" width="780"/>
 </p>
 
 ## Visualization
